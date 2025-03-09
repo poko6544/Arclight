@@ -1,0 +1,2 @@
+on walk on stone:
+   message "di dal" to player
